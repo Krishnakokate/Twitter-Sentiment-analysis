@@ -1,0 +1,10 @@
+!pip install contractions
+!pip install mglearn
+!pip install gensim
+import pandas as pd
+pd.set_option("display.max_colwidth", 200)
+import matplotlib.pyplot as plt
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
