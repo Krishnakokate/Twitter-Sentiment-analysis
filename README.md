@@ -1,4 +1,4 @@
-# NLP Sentiment Analysis Project
+# Twitter sentiment analysis using NLP
 
 ## Overview
 
